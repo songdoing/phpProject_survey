@@ -1,0 +1,26 @@
+
+
+.instruct {
+    border: 1px solid #AB25A2;
+    background-color : #F6DCF7;
+    box-shadow: 1px 1px 2px #978D96;
+    font-size : 15px;
+    text-align: left;
+    margin : 30px auto;
+    padding-left : 20px;
+}
+
+.button{
+    border: 1px solid #AB25A2;
+    background-color : #DCE6F7;
+    box-shadow: 1px 1px 2px #99A5B6;
+    font-size : 13px;
+}
+
+.txt .drp{
+    border: 1px solid #AB25A2;
+    font-size : 12px;
+    background-color: #F7DCF1;
+    box-shadow: 1px 1px 2px #B699B6;
+}
+
